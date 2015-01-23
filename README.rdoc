@@ -1,1 +1,5 @@
 This app was created by Matt Morgante on January 23rd, 2015
+
+This app enables the creation of notes
+
+Last update January 23rd, 2015
